@@ -25,6 +25,9 @@ GPUのレンダリングパイプラインをブラックボックスとして�
 ・Zバッファによる深度管理
 ・フレームバッファ（pixelBuffer）
 ・Win32（GDI）を用いた描画
+
+<img width="480" height="323" alt="Phase 0:単色の立方体が回転する様子" src="https://github.com/user-attachments/assets/e26456d0-4db3-4d5e-9b64-19400687752d" />
+
  
 **今後の拡張予定**
 
